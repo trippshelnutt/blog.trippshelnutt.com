@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+title: Tripp Shelnutt - Blog
+
+plugins:
+    - jekyll-postcss
+    - jekyll-purgecss
+
+exclude:
+    - .gitignore
+    - README.md
+    - node_modules
+    - Gemfile
+    - Gemfile.lock
+    - package.json
+    - package-lock.json
+    - postcss.config.js
+    - purgecss.config.js
+    - tailwind.config.js
