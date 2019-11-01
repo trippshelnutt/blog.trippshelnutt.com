@@ -1,5 +1,6 @@
 title: Tripp Shelnutt - Blog
 
+markdown: kramdown
 plugins:
     - jekyll-postcss
     - jekyll-purgecss
@@ -15,3 +16,4 @@ exclude:
     - postcss.config.js
     - purgecss.config.js
     - tailwind.config.js
+    - ignore
