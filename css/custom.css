@@ -4,6 +4,118 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1vw;
+    color: grey;
+}
+
+a {
+    text-decoration: underline;
+}
+
+p {
+    padding-bottom: 1vw;
+}
+
+ul {
+    padding-bottom: 1vw;
+}
+
+header {
+    background-image: url("/images/header.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 100vw;
+}
+
+footer {
+    text-align: center;
+    width: 100vw;
+    padding: 2vw;
+}
+
+header hgroup {
+    background-color: rgba(255, 255, 255, .75);
+    color: cornflowerblue;
+    padding: 2vw;
+}
+
+header h1 {
+    font-size: 3vw;
+}
+
+header h2 {
+    font-size: .85vw;
+    font-style: italic;
+    color: grey;
+}
+
+header nav {
+    background-color: cornflowerblue;
+    color: gainsboro;
+    border-top: 1px solid gainsboro;
+    border-bottom: 1px solid gainsboro;
+    padding: .4vw 0vw .4vw 0vw;
+}
+
+header nav a {
+    color: white;
+}
+
+main {
+    /* border: 1px solid black; */
+    margin: auto;
+    width: 50vw;
+    padding: 2vw;
+}
+
+.home-post {
+    /* border: 1px solid red; */
+    padding-bottom: 2vw;
+}
+
+.post-link-date {
+    font-size: 1.25vw;
+    color: gray;
+    padding-bottom: 1vw;
+}
+
+.post-link {
+    font-size: 1.75vw;
+    color: cornflowerblue;
+}
+
+.post-link-summary {
+    font-style: italic;
+    font-size: .85vw;
+}
+
+.bricks {
+    float: right;
+    margin-left: 1vw;
+    margin-bottom: 1vw;
+}
+
+.bricks img {
+    border: 1px solid black;
+}
+
+article {
+}
+
+article h1 {
+    font-size: 1.75rem;
+    color: cornflowerblue;
+}
+
+article h2 {
+    font-size: 1.25rem;
+    color: gray;
+    padding-bottom: 1vw;
+}
+
 @screen sm {
 }
 @screen md {

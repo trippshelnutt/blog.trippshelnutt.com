@@ -1,17 +1,32 @@
-title: Tripp Shelnutt - Blog
+title: Currently Developing...
+author: Tripp Shelnutt
+
+# this means to ignore newlines until "baseurl:"
+description: >-
+  "Currently Developing..." is a site about software engineering and other related things. Author: Tripp Shelnutt.
+
+# the subpath of your site, e.g. /blog
+baseurl: ""
+
+# the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.trippshelnutt.com"
+
+twitter_username: trippshelnutt
+github_username: trippshelnutt
 
 plugins:
-    - jekyll-postcss
-    - jekyll-purgecss
+  - jekyll-feed
+  - jekyll-postcss
+  - jekyll-purgecss
 
 exclude:
-    - .gitignore
-    - README.md
-    - node_modules
-    - Gemfile
-    - Gemfile.lock
-    - package.json
-    - package-lock.json
-    - postcss.config.js
-    - purgecss.config.js
-    - tailwind.config.js
+  - .gitignore
+  - README.md
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - postcss.config.js
+  - purgecss.config.js
+  - tailwind.config.js

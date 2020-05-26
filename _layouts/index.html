@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<main class="home">
+	{{ content }}
+	{%- for post in site.posts -%}
+		<div class="home-post">
+			<div class="post-link">
+				<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+			</div>
+			<div class="post-link-date">
+				<span class="post-link-date">{{ post.date | date: "%b %-d %Y"}}</span>
+			</div>
+			<div class="post-link-summary">
+				{{ post.content | strip_html | truncatewords: 100 }}
+			</div>
+		</div>
+	{%- endfor -%}
+</main>
