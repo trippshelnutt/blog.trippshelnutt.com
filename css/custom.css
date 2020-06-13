@@ -144,7 +144,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .highlight .il { color: #099; }
 
 @screen sm {
-    body { @apply text-xs; }
+    body { @apply text-sm; }
     header .bricks { @apply w-1/4; }
     main { @apply w-screen; }
 }
