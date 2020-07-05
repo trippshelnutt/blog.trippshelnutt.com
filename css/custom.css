@@ -9,6 +9,7 @@ body { @apply text-lg font-serif text-gray-700; }
 a { @apply underline; }
 
 h1 { @apply text-3xl text-blue-700; }
+h1.sub { @apply text-xl; }
 h2 { @apply text-sm; }
 
 header { @apply w-screen p-8 text-center; }
