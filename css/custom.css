@@ -20,7 +20,7 @@ header ul li { @apply inline mx-2; }
 header nav { @apply py-1 text-gray-700; }
 header .bricks { @apply w-1/2 mx-auto; }
 
-footer { @apply text-center text-sm p-8 w-screen; }
+footer { @apply text-center text-sm p-8; }
 
 main { @apply w-screen m-auto p-8 }
 
