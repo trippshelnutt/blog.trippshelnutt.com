@@ -13,8 +13,8 @@ h1.sub { @apply text-xl; }
 span.date { @apply text-sm; }
 
 header { @apply w-screen p-8 text-center; }
-header h1 { @apply text-3xl text-blue-700; }
-header span.author { @apply text-sm italic; }
+header h1 { @apply text-3xl text-blue-700 mb-2; }
+header span.author { @apply text-sm italic block mb-2; }
 header ul { @apply list-none m-0; }
 header ul li { @apply inline mx-2; }
 header nav { @apply py-1 text-gray-700; }
