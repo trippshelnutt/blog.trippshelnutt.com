@@ -8,6 +8,7 @@ categories: certification practice exam study
 
 <br/>
 ![classroom](/images/posts/mcsd-certification-classroom.jpg)
+<span class="photo">Photo by <a href="https://unsplash.com/@ivalex?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ivan Aleksic</a> on <a href="https://unsplash.com/s/photos/exam?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 <br/>
 
 I recently obtained my MCSD: App Builder certification. I have been developing professionally for 20+ years. This is the first post-colligate certification that I have chosen to pursue. Although I thought about getting certified at various points in my career, it was never the right time. There were always other priorities. Ultimately, I am glad that I went through the process now, and hopefully, I can help others by sharing some things that I learned along the way. 
@@ -27,8 +28,6 @@ First off, you will need to choose your path. I decided to get the MCSD: App Bui
 There are lots of different ways that you can prepare for an exam, but I am only going to cover one of these. There are lots of prep books, online classes, in-person training, you name it. I chose to go with the practice exams from MeasureUp on my first exam. I liked it so much that I used the same method to prepare for the other two. Each practice exam includes a reasonable bank of ~180 questions, and they did a decent job of representing the material that I saw in the official content. 
 
 I also chose to bundle my practice exams with an exam voucher from GetCertified4Less. Sometimes they have deals for bundles or early-expiration vouchers if you are trying to get certified as cheaply as possible. It is also worth noting that they have exam bundles that include a second exam voucher if you think that you might need a second attempt if you fail an exam. This option is perfect for first-time test takers who are nervous about the process and need a little extra security. 
-
-  
 
 Starting out with an exam from MeasureUp, I would recommend taking a practice exam in practice mode without any preparation. This will give you a good idea of where you stand and how much effort you will need to put in before exam day. When you complete the exam, MeasureUp should present the final answers along with some added detail about the correct choice as well as the incorrect choices. 
 
@@ -64,5 +63,3 @@ Resources:
 - [GetCertified4Less](https://getcertified4less.com/)
 - [MeasureUp](https://www.measureup.com/)
 - [Pearson Vue (Test Takers)](https://home.pearsonvue.com/Test-takers.aspx)
-
-<span>Photo by <a href="https://unsplash.com/@ivalex?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ivan Aleksic</a> on <a href="https://unsplash.com/s/photos/exam?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

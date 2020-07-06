@@ -20,7 +20,7 @@ header ul li { @apply inline mx-2; }
 header nav { @apply py-1 text-gray-700; }
 header .bricks { @apply w-1/2 mx-auto; }
 
-footer { @apply text-center text-sm p-8; }
+footer { @apply text-center p-8; }
 
 main { @apply w-screen m-auto p-8 }
 
@@ -29,6 +29,11 @@ main { @apply w-screen m-auto p-8 }
 .post-link { @apply text-3xl text-blue-700; }
 .post-link-date { @apply text-sm; }
 .post-link-summary { @apply text-sm italic; }
+
+.photo { @apply text-sm italic; }
+.copyright { @apply text-sm italic; }
+.links { @apply text-3xl text-blue-700; }
+.links a { @apply px-2; }
 
 /** Styles from Minima Jekyll Theme */
 

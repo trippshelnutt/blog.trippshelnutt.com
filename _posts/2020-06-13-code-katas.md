@@ -4,6 +4,12 @@ title:  "Code Katas"
 date:   2020-06-13 08:08:18 -0400
 categories: development katas practice teams
 ---
+
+<br/>
+![classroom](/images/posts/code-katas-keyboard.jpg)
+<span class="photo">Photo by <a href="https://unsplash.com/@jon_chng?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jonathan Chng</a> on <a href="https://unsplash.com/s/photos/practice?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+<br/>
+
 At my current job, we have an opportunity every week for [Community of Practice](https://en.wikipedia.org/wiki/Community_of_practice). Sometimes this turns out to be working with some new technology or framework. Lately, the activity has been filled with working through various code katas, including the Monopoly Kata (see link below). Practicing with katas can have nearly infinite benefits for you as an individual or as a team.
 
 Assuming you are already familiar with the kata, practicing with a kata allows you to focus on technical skills that aren't related to domain knowledge. For example, Monopoly is a game that is familiar to a lot of people, so working through the problems involved doesn't involve a lot of in-depth domain knowledge.  Working through domain knowledge is a challenge in and of itself and represents a large portion of work that most developers have to tackle daily. Being able to take a break from this and focus only on technical skills can be refreshing.
